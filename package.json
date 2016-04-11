@@ -1,7 +1,7 @@
 {
   "name": "mo39-json",
-  "version": "1.0.0",
-  "description": "Mogic of Ingresss player **39M** returns \"膜39\" JSON string",
+  "version": "1.0.1",
+  "description": "Mogic of Ingresss player 39M returns '膜39' JSON string",
   "main": "index.js",
   "scripts": {
     "test": "node test/test.js"
