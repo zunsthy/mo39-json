@@ -1,0 +1,22 @@
+{
+  "name": "mo39-json",
+  "version": "1.0.0",
+  "description": "Mogic of Ingresss player **39M** returns \"膜39\" JSON string",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zunsthy/mo39-json.git"
+  },
+  "keywords": [
+    "mo39"
+  ],
+  "author": "zunsthy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zunsthy/mo39-json/issues"
+  },
+  "homepage": "https://github.com/zunsthy/mo39-json#readme"
+}
