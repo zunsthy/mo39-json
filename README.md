@@ -13,7 +13,7 @@ npm install mo39-json
 ## Use
 
 ``` node 
-const mo39 = require('mo39');
+const mo39 = require('mo39-json');
 const http = require('http');
 
 const srv = http.createServer((req, res) => {
@@ -32,9 +32,10 @@ npm test
 
 ## HostList
 
-`mo39.js` is hosted by many volunteers. Here is an incomplete list:
+`mo39-json.js` is hosted by many volunteers. Here is an incomplete list:
 
 - [mo39.ylxdzsw.com:3939](http://mo39.ylxdzsw.com:3939) By ylxdzsw
+- [zunsthy.39m.moe/mo39](http://zunsthy.39m.moe/mo39) By zunsthy
 
 ## License
 
