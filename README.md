@@ -30,6 +30,12 @@ srv.listen(3939, '127.0.0.39');
 npm test
 ```
 
+## HostList
+
+`mo39.js` is hosted by many volunteers. Here is an incomplete list:
+
+- [mo39.ylxdzsw.com:3939](http://mo39.ylxdzsw.com:3939) By ylxdzsw
+
 ## License
 
 MIT License
